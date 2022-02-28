@@ -1,3 +1,3 @@
 Alex Hingtgen
 
-Chicago Bears
+Chicago Cubs
