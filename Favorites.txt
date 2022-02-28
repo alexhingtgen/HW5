@@ -1,1 +1,3 @@
 Favorite food: Pizza
+
+Favorite color: Blue
