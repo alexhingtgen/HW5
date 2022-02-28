@@ -1,3 +1,5 @@
 Favorite food: Pizza
 
 Favorite color: Blue
+
+Favorite animal: Lion
